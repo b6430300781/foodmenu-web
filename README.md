@@ -66,12 +66,11 @@ DELETE  /api/menus/
 
 ## 📷 Screenshot
 
-ใส่รูปเว็บคุณตรงนี้ เช่น:
+### 🏠 Home
+<img src="./screenshot-home.png" width="600"/>
 
-```md
-![home](./screenshot-home.png)
-![admin](./screenshot-admin.png)
-```
+### ⚙️ Admin
+<img src="./screenshot-admin.png" width="600"/>
 
 ---
 
